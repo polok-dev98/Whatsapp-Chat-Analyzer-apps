@@ -8,4 +8,3 @@ Go to this URL to use the apps : https://whatsappalizer.herokuapp.com/
 
  2.open the editor terminal and run this command-> streamlit run app.py
 
-# Enjoy 
